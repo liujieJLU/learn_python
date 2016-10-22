@@ -111,6 +111,6 @@ print u"""
     
     
 print u'请按下回车浏览今日的糗百内容：'    
-raw_input(' ')    
+raw_input(' ')
 myModel = Spider_Model()    
 myModel.Start()
